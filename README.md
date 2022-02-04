@@ -1,4 +1,4 @@
-# Synth Master Clock
+# Synth Master Clock with Arduino
 Master clock for synthesizers with CV clock pulse and midi.
 
 Features including:<br>
@@ -7,4 +7,6 @@ Features including:<br>
 - CV out 1/8, 1/4, 1/2 and 1/1 beats with start and stop
 - Adjustable CV duty cycle from 1 to 90%
 - Midi clock out with start and stop
-- Easy to read I2C LCD-display
+- Easy to read I2C 2x16 LCD-display
+
+Tested with MIDI-OX, Pocket Operator Arcade and Arduino Uno/Nano.
